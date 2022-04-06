@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "JZ Lab - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "JZ Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+(For a full list of publications see [below](#full-list-of-publications) or go to [CityU Scholars](https://scholars.cityu.edu.hk/en/persons/jilin-zhang(6d4beccd-7ec5-4423-a8bc-207ba5fbb6d6).html), [ORCID iD: 0000-0002-9976-1605](http://orcid.org/0000-0002-9976-1605))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -51,13 +51,7 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-
-## Patents
-<em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
-
-<em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
-
-## Full List of publications
+## Full List of publications (to be completed)
 
 {% for publi in site.data.publist %}
 
