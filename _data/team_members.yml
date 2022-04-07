@@ -11,8 +11,8 @@
 
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
+  info: See vacancies for more info
+  email: jilin.zhang@cityu.edu.hk
   number_educ: 0
   education1:
   education2:
